@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manishmasand1234
-- 👀 I’m interested in making new webpages
+- 👀 I’m interested in making new react apps
 - 🌱 I’m currently learning react JS and Mongo DB
 - 💞️ I’m looking to collaborate on React JS Developer
 - 📫 How to reach me Call me on 7017912541 or compose mail on manishsinghmasand@gmail.com
